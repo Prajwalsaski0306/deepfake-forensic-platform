@@ -11,3 +11,4 @@ moviepy
 imageio
 imageio-ffmpeg
 ffmpeg-python
+plotly
